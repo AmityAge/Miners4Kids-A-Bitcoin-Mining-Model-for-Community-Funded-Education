@@ -1,0 +1,1 @@
+# Miners4Kids-A-Bitcoin-Mining-Model-for-Community-Funded-Education
