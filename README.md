@@ -1,13 +1,13 @@
 
 # Miners4Kids – A Bitcoin Mining Model for Community-Funded Education
 
-Welcome to the **Miners4Kids (M4K) Repository**! This project empowers communities to replicate the Miners4Kids model, using Bitcoin mining to sustainably fund educational programs for children. By leveraging Bitcoin mining, communities can generate funds that directly support youth education, particularly in underserved areas.
+Welcome to the **Miners4Kids (M4K) Repository**! This project guides communities to replicate the Miners4Kids model, using Bitcoin mining to sustainably fund educational programs for children. By leveraging Bitcoin mining, communities can generate funds that directly support education, particularly in underserved areas.
 
 ---
 
 ## Project Background
 
-The **Miners4Kids** initiative was created by **AmityAge Academy** in Roatán, Honduras. Originally launched as *Miners4Communities* by our founder, Dusan Matuska, the project aimed to use Bitcoin mining to fund educational efforts in specific communities. However, we quickly realized a centralized approach focusing directly on providing resources for children would be more impactful and secure. Thus, the Miners4Kids model was developed to simplify, secure, and scale the project.
+The **Miners4Kids** initiative was created by **AmityAge Academy** in Roatán, Honduras. Originally launched as *Miners4Communities* by our founder, Dusan Matuška, the project aimed to use Bitcoin mining to fund educational efforts in specific communities. However, we quickly realized a centralized approach focusing directly on providing resources for children would be more impactful and secure. Thus, the Miners4Kids model was developed to simplify, secure, and scale the project.
 
 ### Why This Model Works
 Bitcoin mining provides a continuous funding source, and the proceeds can be directed towards educational programs. This model makes a positive, lasting impact on young learners by fostering financial literacy and technology skills.
