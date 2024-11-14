@@ -1,3 +1,4 @@
+
 # Miners4Kids – A Bitcoin Mining Model for Community-Funded Education
 
 Welcome to the **Miners4Kids (M4K) Repository**! This project empowers communities to replicate the Miners4Kids model, using Bitcoin mining to sustainably fund educational programs for children. By leveraging Bitcoin mining, communities can generate funds that directly support youth education, particularly in underserved areas.
@@ -118,3 +119,4 @@ This repository provides everything you need to start a Miners4Kids project in y
 
 ---
 
+<img src="../Honduras -- Amity Age/Photos/AmityAge - Logo.PNG">
